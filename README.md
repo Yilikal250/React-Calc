@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Setup
 
-Clone the repository using the GitHub [link](https://github.com/iBel251/math-magicians.git)
+Clone the repository using the GitHub [link](https://github.com/Yilikal250/React-Math-magicians.git)
 
 ### Install
 
