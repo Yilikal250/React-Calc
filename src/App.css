@@ -1,39 +1,109 @@
-.App {
-  text-align: center;
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: azure;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+::placeholder {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+p {
+  width: 80%;
+  margin: 15px auto;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
+h2 {
+  text-align: center;
+}
 
-  to {
-    transform: rotate(360deg);
-  }
+nav * {
+  padding: 10px;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: white;
+  background-color: black;
+  margin: auto 3px;
+  border-radius: 10px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px gray;
+  background-color: #ffa500;
+}
+
+.quote {
+  max-width: 600px;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 300px;
+  box-shadow: 2px 2px 2px 2px #ead2a4;
+}
+
+.quote span {
+  text-align: right;
+  margin-right: 35px;
+  color: #ffa500;
+  font-weight: 900;
+}
+
+.window {
+  display: flex;
+}
+
+.window h2 {
+  width: fit-content;
+  margin: 25px auto;
+}
+
+.container {
+  width: 420px;
+  margin: 5vh auto 5vh 0;
+}
+
+.result {
+  background-color: gray;
+  max-width: 420px;
+  height: 70px;
+  text-align: right;
+  padding: 20px 5px 0 0;
+  color: white;
+}
+
+.btn {
+  width: 25%;
+  height: 60px;
+  border: 1px solid #c6c6c6;
+}
+
+.zero {
+  width: 50%;
+}
+
+.gray {
+  background-color: #e0e0e0;
+}
+
+.orange {
+  background-color: orange;
 }
