@@ -18,7 +18,7 @@
 
 
 ## Live Demo 🔗
-- [Heroku](https://imran-mathapp.herokuapp.com/)
+- [Heroku](https://yilikal-mathapp.herokuapp.com/)
 - [Netlify](https://math-magicianscom.netlify.app/)
 
 ## Getting Started
@@ -32,14 +32,14 @@ To get a local copy up and running follow these simple steps.
 
 ### Setup
 
-Clone the repository using the GitHub [link](https://github.com/iBel251/math-magicians.git)
+Clone the repository using the GitHub [link](https://github.com/yilikal250/math-magicians.git)
 
 ### Install
 
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone https://github.com/iBel251/math-magicians.git
+$ git clone https://github.com/yilikal250/math-magicians.git
 ```
 
 ### Usage
@@ -61,18 +61,18 @@ Please find the link in the Live Demo section.
 
 ## Authors
 
-👤 **Imran Belete** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
+👤 **Yilikal** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
 
-  - [GitHub](https://github.com/iBel251)
-  - [Twitter](https://twitter.com/ImranBel251)
-  - [LinkedIn](https://www.linkedin.com/in/imran-belete/)
-  - [Gmail](mailto:ibbimran7@gmail.com)
+  - [GitHub](https://github.com/yilikal250)
+  - [Twitter](https://twitter.com/TeshomeYilikal)
+  - [LinkedIn](https://www.linkedin.com/in/yilikal-teshome-b6493922a/)
+  - [Gmail](mailto:teshomeyilikal250@gmail.com)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/iBel251/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/yilikal250/math-magicians/issues).
 
 ## Show your support
 
