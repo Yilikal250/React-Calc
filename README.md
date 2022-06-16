@@ -18,7 +18,6 @@
 
 
 ## Live Demo 🔗
-- [Heroku](https://yilikal-mathapp.herokuapp.com/)
 - [Netlify](https://math-magicianscom.netlify.app/)
 
 ## Getting Started
